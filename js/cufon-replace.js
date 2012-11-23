@@ -1,0 +1,1 @@
+Cufon.replace('.sf-menu > li > a, h1, h2, h3, .list-number, .list-number1, .list-number2, .list-number3, .list-number4, .banner1 h3, .banner2 h3, .banner3 h3, .button,, .button-1, .box-2 h3, .box-3 h2, .profile-button, table th, #contact-form .buttons a, .contact-top', { fontFamily: 'Oswald', hover:true });
